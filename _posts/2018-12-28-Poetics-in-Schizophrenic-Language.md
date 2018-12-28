@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poetics in Schizophrenic Language: Speech, Gesture and Biosemiotics  
+title: Poetics in Schizophrenic Language - Speech, Gesture and Biosemiotics  
 ---  
 
 An [interesting paper](https://www.researchgate.net/profile/James_Goss2/publication/251195101_Poetics_in_Schizophrenic_Language_Speech_Gesture_and_Biosemiotics/links/5481efce0cf2e5f7ceaac793.pdf?origin=publication_list) contributing some insight into the nature and phenomenology of schizophrenia and the state of psychosis (as characterized by a kind of freeflow semiosis, primitive experience of language and regime of constructing meaning and making sense). Below are excerpts and paragraphs from the paper that capture the the essence of it:
