@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 published: true
 ---
-
 #                                 Martin Banov
 
 - **Mobile**: (+359) 887313799
@@ -12,9 +11,7 @@ published: true
 - **Skype:** tryl.qyi
 - **Telegram:** @Rhyzom
 - **Nationality**: Bulgarian
-- **Date of Birth**: 15.02.1986                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-
-
+- **Date of Birth**: 15.02.1986                                                                                                                                                                                                                                                                                                                                                               
 
 ## Profile / Summary
 
@@ -22,7 +19,7 @@ published: true
 
 Background in Biology and Chemistry, studied in Sofia University (Bulgaria) and Aarhus Technical College, Denmark (as Chemical and Biotechnical Science). Occasionally taking extra-curricular courses and visiting lectures in other departments/areas where having been interested in or curious to know more about (philosophy, art history, journalism, etc.) Worked as an intern for a brief period of time in a biotechnology institute before reorienting towards working in IT.
 
-Following several years paid work experience in the IT industry, mostly in the area/departments of *NIX systems administration: server maintenance, monitoring and support, system upgrades and security, etc. Both in large enterprise and small startup company environments. Familiarized myself with various protocol stacks and industry standards in the process of work, adapting to company environment and culture, realizing how responsibilities are allocated and carried out among departments cooperating in different degrees.
+Following several years paid work experience in the IT industry, mostly in the area/departments of *NIX systems administration: server maintenance, monitoring and support, system upgrades and security, etc. Both in large enterprise and small startup company environments. Familiarized myself with various protocol stacks and industry standards in the process of work, adapting to company environment and culture, realizing how responsibilities are allocated and carried out among departments cooperating in various ways and to different degrees.
 
 Lived for a few year long intervals in a number of different countries over the past decade (Czech, Israel, Taiwan, etc.), having during that time also taken up other kinds of work along the way, including briefly at an investment brokerage firm in Prague, construction and drilling jobs, writing (articles, news, high-level technical overviews, guides, etc.), translations, editing and proofreading, English teaching, software-related and web design, etc. Including an year and a half long stretch of mostly volunteer work in an Israeli kibbutz.
 
@@ -34,15 +31,15 @@ Largely self-taught and perpetually occupied with expanding my scope of understa
 
 ------
 
-#### **Aarhus Technical College, Denmark                                                                                    2008 - 2010**
+#### **Aarhus Technical College, Denmark                                                                           2008 - 2010**
 
 *Chemical and Biotechnical Science*
 
-#### **Sofia University, Bulgaria                                                                                                      2005 - 2008**
+#### **Sofia University, Bulgaria                                                                                  2005 - 2008**
 
 *Biology and Chemistry (opted for extra-curricular courses in: neurobiology, Latin, etc.)* 
 
-#### **Mathematics High School, Geo Milev (Pleven, Bulgaria)                                                   1999 - 2004**
+#### **Mathematics High School, Geo Milev (Pleven, Bulgaria)                                                       1999 - 2004**
 
 *Focus/class profile in Geography, Mathematics and Natural Sciences*
 
@@ -52,12 +49,12 @@ Largely self-taught and perpetually occupied with expanding my scope of understa
 
 ------
 
-#### **English Teacher**                                              						             **Aug. 2017 – Jan. 2018**
+#### **English Teacher**                                                  						             **Aug. 2017 – Jan. 2018**
 
 - Teaching English at public and private schools in Ho Chi Minh City, Vietnam. Primary, secondary and high school levels. Taking the opportunity to learn how to pedagogically approach teaching and managing a class, keeping students focused and interested, improvising on curriculum and providing additional materials according to individual interests and inclinations.        	
 
 
-### **Junior Investment Broker**   			                                                                                         **Oct. 2016 – April 2017**
+### **Junior Investment Broker**   			                                                          **Oct. 2016 – April 2017**
 
 *FxNet Ltd., Czech Republic, Prague*
 
@@ -75,13 +72,13 @@ Largely self-taught and perpetually occupied with expanding my scope of understa
 
 - Drilling and setting up water wells (up to 40 meters deep) around Northern Bulgaria with a semi-improvised cable tool steel rig and old Soviet era gear. Assembling and disassembling equipment, welding components, setting up sites, changing rigs as needed, watching for any equipment irregularity or sign of malfunction and sliding down and locking the pipes and water pump once clean water begins to rise from the bottom. Took up about five such individual, successfully completed assignments.
 
-#### **Linux Administration and SIP Server Support**                                                                 **Jan. - June 2013**
+#### **Linux Administration and SIP Server Support**                                                       **Jan. - June 2013**
 
 *CircleTech, s.r.o., Czech Republic, Prague*
 
 - Systems/server administration and support for a company developing and maintaining a secure, fully encrypted mobile communications system and its mobile application for client privacy protection (including voice calls, text messages and e-mail). Responsibilities included SIP (Session Initiation Protocol) server maintenance and support (the traffic control node between client-side application and service provider which serves as a router switchboard encrypting all communications through the Internet), periodic security audits and upgrades, running tests on newly made changes or software additions, ensuring smooth, uninterrupted operation of services, maintaining of high security standards and practices and other tasks of such nature.
 
-#### **Gig Economy Work: Freelance and Remote**                                                                        **2013 - Present**
+#### **Gig Economy Work: Freelance and Remote**                                                             **2013 - Present**
 
 - Irregular part-time, temporary or by the piece remote jobs and assignments. Having varied from writing article and news pieces, editing and proofreading papers and technically oriented materials (tutorials and guides, product descriptions and system specifications, etc.), translations and transcriptions, setting up server configurations or writing customized scripts for automating specific operations (data scraping, a smart contract outsourcing a computation or needing to fetch external data via an oracle in Ethereum, etc.) Mostly trying to selectively pick what best suits my interests of areas I'd like to acquire more experience and practice in.
 
@@ -91,25 +88,25 @@ Largely self-taught and perpetually occupied with expanding my scope of understa
 
 - Mobile UNIX administration involving management and monitoring of servers and mobile service applications across multiple UNIX servers and data points in a highly structured and role divided work environment, largely coordinated by managers from across the Atlantic. Work as part of a team supporting operational related activities and providing support to other departments and teams as required in support of other business objectives. Made some acquaintances which developed into life-long friendships.
 
-#### **Linux Administration, Web Application Support**                                                             **Apr. - Sept. 2011**
+#### **Linux Administration, Web Application Support**                                                   **Apr. - Sept. 2011**
 
 *Codix, Bulgaria*
 
 - Web servers and middleware application support (Apache Tomcat), installation and deployment of company software product, Apache web servers and supporting application and database components, day-to-day maintenance of company client environments, upgrades and shell scripts (for programming procedures and routines that lend themselves to automation), system components configuration and integration, vulnerability tracking and periodic security audits and tests, and others according to the circumstances of the situation (all mostly revolving around an event-driven software solution for businesses managing their financial activities with other institutions and banks). 	
 
-#### **2nd** **Level UNIX Support**                                                                                                      **Mar. – Jun. 2010**
+#### **2nd** **Level UNIX Support**                                                                      **Mar. – Jun. 2010**
 
 *Hewlett Packard, Bulgaria*
 
 - 2nd level UNIX support. System monitoring and diagnostics of remote client servers and data centers, taking care of arriving (mostly trivial and repetitive) lower priority issues and sorting others in the ticketing system according to type/category of issue and level of priority after evaluating its severity (how critical the issue in interfering with performance of regular client operations).
 
-#### **Laboratory Assistant**                                                                                                            **Feb. - May 2009**
+#### **Laboratory Assistant**                                                                            **Feb. - May 2009**
 
 *Agrobiotech (Institute of Biotechnology), Bulgaria*
 
 - Biotech lab worker and research assistant - *in vitro* work with plant cell cultures. Preparing culture media, keeping track of biological/metabolic processes and environmental parameters, DNA isolation and PCR, collecting, documenting and comparing experiment results, following laboratory protocol guidelines and established standards, etc. 
 
-#### **System Administration and Maintenance**                                                                **Aug. 2008 – Mar. 2009**
+#### **System Administration and Maintenance**                                                     **Aug. 2008 – Mar. 2009**
 
 *Contract Ltd., Bulgaria*
 
