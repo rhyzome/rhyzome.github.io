@@ -45,5 +45,5 @@ The __holes__ in the figures represent the characteristics that exist at each 
 
 Thus the differential sets up a hierarchy of order, with the submicroscopic domain of dynamic change coming first, the relatively stable universe conveyed non-verbally by our senses coming next, and then the verbal levels. A label is what we attach to a non-verbal experience in order to identify this experience in verbal terms; when we identify an "apple", we attribute to this identification various non-verbal experiences.  
 
-![](https://i.imgur.com/undefined.jpg)  
+![](https://i.imgur.com/hX2d9QD.jpg)  
 *From the patent.*
