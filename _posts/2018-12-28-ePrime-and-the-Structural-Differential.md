@@ -1,7 +1,7 @@
 ---
-published: false
+layout: post
+title: e-Prime and the Structural Differential (a refresh on General Semantics)
 ---
-## e-Prime and the Structural Differential (a refresh on General Semantics)
 
 E-Prime is a version of English that excludes forms of the verb to be as means to clarify thinking, avoid fallacies and misconceptions and strengthen writing. It was devised as an adjunct to Korzybski's [general semantics](https://en.wikipedia.org/wiki/General_semantics) in the late 1940's. Particularly the verb's function in cases of assigning identities and essences ("*is* of Identity" and "*is* of Predication") gets emphasized as forming pernicious thinking habits (and thus epistemological consequences as well as psychological ones) in how things are habitually articulated within the syntax of language. 
 
