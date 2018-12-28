@@ -3,6 +3,8 @@ layout: post
 title: Deleuzian Concepts
 ---
 
+from *Adrian Parr - "The Deleuze Dictionary."*
+
 ### ASSEMBLAGE
 An assemblage, for Deleuze, entails a consistency of elements that is irreducible to a traditional dualism – e.g. form– substance relation – and yet assemblages ‘swing between territorial closure that tends to restratify them and a deterritorializing movement that on the contrary connects them with the Cosmos’ (D&G 1987: 337). Assemblages therefore risk, yet avoid collapsing into actualised stratifi cation or actualised deterritorialisation. An assemblage is thus a dynamic assemblage, a multiplicity that is drawn into a plane of consistency that maintains itself without being reduced to either side of a dualistic relation.  
 
