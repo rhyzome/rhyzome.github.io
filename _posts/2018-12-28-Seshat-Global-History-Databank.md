@@ -2,8 +2,10 @@
 layout: post
 title: Seshat, The Global History Databank
 ---
-Paper found [here](https://escholarship.org/uc/item/9qx38718). Excerpts below.
-__________________________________________________________________________________________
+Paper found [here](https://escholarship.org/uc/item/9qx38718). Excerpts below:   
+
+~ ~ ~ ~ ~ ~ ~   
+  
 # __From Theories to Predictions. The Evolution of Social Complexity.__    
 
 The theoretical framework that has informed our research is __Cultural Multilevel Selection (CMLS)__. __CMLS offers an elegant and parsimonious solution to the problem of how to combine the functionalist and conflict elements. Cooperation and coercion are enjoined in a very special way: cooperation takes place among lower-level units (but is supplemented with punishment of freeriders), whereas conflict takes place between higher-level entities (Richerson and Boyd 1998, Wilson 2002, Bowles 2009, Turchin 2013)__.  
