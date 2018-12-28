@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seshat: The Global History Databank
+title: Seshat, The Global History Databank
 ---
 Paper found [here](https://escholarship.org/uc/item/9qx38718). Excerpts below.
 __________________________________________________________________________________________
