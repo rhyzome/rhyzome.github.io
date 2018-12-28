@@ -4,7 +4,7 @@ title: Seshat, The Global History Databank
 ---
 Paper found [here](https://escholarship.org/uc/item/9qx38718). Excerpts below:   
 
-~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~        
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~           
   
 # __From Theories to Predictions. The Evolution of Social Complexity.__    
 
