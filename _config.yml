@@ -6,7 +6,7 @@
 name: rhyzom
 
 # Short bio or description (displayed in the header)
-description: a registry: minimal blog & arbitrary notes
+description: minimal blog & arbitrary notes
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://i.imgur.com/LheTj3Q.png
@@ -19,7 +19,7 @@ avatar: https://i.imgur.com/LheTj3Q.png
 footer-links:
   email: rhyzome@disroot.org
   github: rhyzome
-  twitter: @rhyzom00
+  twitter: rhyzom00
 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
