@@ -1,10 +1,20 @@
 ---
 layout: post
-title: You're up and running!
+title: Cut-up (Tzara, Burroughs, Bergson, etc.)
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+> *"Now the image has at least this advantage, that it keeps us in the concrete. No image can replace the intuition of duration, but many diverse images, borrowed from very different orders of things, may, by the convergence of their action, direct consciousness to the precise point where there is a certain intuition to be seized. By choosing images as dissimilar as possible, we shall prevent any one of them from usurping the place of the intuition it is intended to call up, since it would then be driven away at once by its rivals. By providing that, in spite of their differences of aspect, they all require from the mind the same kind of attention, and in some sort the same degree of tension, we shall gradually accustom consciousness to a particular and clearly defined disposition — that precisely which it must adopt in order to appear to itself as it really is, without any veil."*
+>
+- Henri Bergson, "Introduction to Metaphysics"
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+> *"The scrapbooks and time travel are exercises to expand consciousness, to teach me to think in association blocks rather than words. I've recently spent a little time studying hieroglyph systems, both the Egyptian and the Mayan. A whole block of associations—boonf!—like that! Words—at least the way we use them—can stand in the way of what I call nonbody experience. It's time we thought about leaving the body behind."*
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+> *"Any narrative passage or any passage, say, of poetic images is subject to any number of variations, all of which may be interesting and valid in their own right. A page of Rimbaud cut up and rearranged will give you quite new images. Rimbaud images—real Rimbaud images—but new ones."*
+
+> *"Of course, because cut-ups make explicit a psychosensory process that is going on all the time anyway. Some- body is reading a newspaper, and his eye follows the column in the proper Aristotelian manner, one idea and sentence at a time. But subliminally he is reading the columns on either side and is aware of the person sitting next to him. That's a cut-up. I was sitting in a lunchroom in New York having my doughnuts and coffee. I was thinking that one does feel a little boxed in in New York, like living in a series of boxes. I looked out the window and there was a great big Yale truck. That's cut-up—a juxtaposition of what's happening outside and what you're thinking of."*
+>
+- William S. Burroughs, "The Third Mind"
+
+
+
+
