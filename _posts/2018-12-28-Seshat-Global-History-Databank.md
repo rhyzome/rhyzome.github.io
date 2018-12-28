@@ -6,14 +6,14 @@ Paper found [here](https://escholarship.org/uc/item/9qx38718). Excerpts below:
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~           
   
-# __From Theories to Predictions. The Evolution of Social Complexity.__    
+## __From Theories to Predictions. The Evolution of Social Complexity.__    
 
 The theoretical framework that has informed our research is __Cultural Multilevel Selection (CMLS)__. __CMLS offers an elegant and parsimonious solution to the problem of how to combine the functionalist and conflict elements. Cooperation and coercion are enjoined in a very special way: cooperation takes place among lower-level units (but is supplemented with punishment of freeriders), whereas conflict takes place between higher-level entities (Richerson and Boyd 1998, Wilson 2002, Bowles 2009, Turchin 2013)__.  
 This brief overview shows that we do not lack theories. __What we have lacked so far is a process by which we can reject some theories in favor of others__. Different theories, however, make very different predictions as to where, when, and under what circumstances we should see the rise of large-scale complex societies during the last 10,000 years across the globe. Because different theories postulate different causal factors responsible for the evolution of social complexity, an analysis of which potentially explanatory variables correlate best with rising social complexity has a direct bearing on the empirical adequacy of rival theories.   
 Moreover, we can do better than employing a purely correlational approach. Because causes precede effects, different theories make divergent predictions about temporal sequences of events. Thus, we need a dynamical databank that allows us to trace how different characteristics of past societies changed with time and determine which variables’ changes precede changes in other variables. Of course, such an approach will not work in situations where temporal changes cannot be resolved on a sufficiently fine temporal scale; however, the continuous improvement in our methodologies of studying the past gives us hope that there will be a growing ensemble of case studies in which temporal resolution is sufficient for the purpose of testing theories.  
 In the next section, we make this discussion more concrete by focusing on one particular aspect of the evolution of human societies: the interaction between social complexity, hierarchy, and inequality.  
 
-## __The Evolution of Hierarchy and Inequality in Human Societies.__  
+### __The Evolution of Hierarchy and Inequality in Human Societies.__  
 
 Egalitarianism and a fierce preference for equality have characterized modern humans for the greater part of our evolutionary history. Although there are distinctions based on age, gender, and achievement, human foraging societies lack clear-cut dominance hierarchies, such as the ones present in chimpanzee troops. Equality in foraging societies is not simply a consequence of their relative poverty; it requires active maintenance. Egalitarian societies possess social norms and institutions designed to control those individuals who attempt to dominate others and to obtain an unfair share of resources (‘upstarts’) (Cashdan 1980). These ‘leveling mechanisms’ range from gossip and ridicule to ostracism and, ultimately, assassination. Because of their small scale, societies of hunter-gatherers were integrated by face-to-face sociality, which enabled a diffuse, non-centralized form of social organization that was well-suited to maintaining an egalitarian ethos (Boehm 2001).    
 
@@ -29,7 +29,7 @@ For individuals to cooperate and coordinate their actions in larger groups, cult
 
 __From the perspective of CMLS, the evolution of cultural traits, such as religious practices and equity norms, can be modeled as resulting from the action of selective forces acting at different levels of social organization. Costly social institutions that enable large-scale cooperation can evolve and be maintained as a result of competition between societies: societies with traits that enable greater control and coordination of larger numbers will out-compete those that lack such traits (Richerson and Boyd 1998, Wilson 2002, Bowles 2009, Henrich et al. 2010)__.  
 
-# __Building the Databank__  
+## __Building the Databank__  
 
 Our long-term goal is for Seshat to be a vast repository for structured data on theoretically relevant variables for any past human society, for which such data exist.  
 
@@ -39,33 +39,33 @@ It should be noted, however, that as Seshat grows by including more variables, i
 
 In summary, the World Sample-30 was designed with two goals in mind: (1) to include as much variation amongst sampled societies as possible, at least along the social complexity dimension, and (2) to ensure that representation of different parts of the world was maximized.  
 
-# __Information Architecture of the Seshat Databank__    
+## __Information Architecture of the Seshat Databank__    
 
 The __basic entity classes (types)__ in the databank’s information architecture __are Organizations and Territories__, __each__ of which __has a set of temporally-scoped Variables associated with it__. __Entity classes__ serve as __units of data collection__ and entry and as potential __units of statistical analysis__. __Territories__ have __fixed geographical bounds__ that do not change with time, whereas __Organizations are defined by temporal bounds and may be associated with specific Territories at specific intervals__. A __subset of variables relate Organizations to Territories, and the temporal dynamics of these Relationship Variables allow us to capture both
 temporal and geographical dynamics of the features of human societies. One of the most important relationship variables is the *controls* relation that specifies which social organization controls which territories over time__.  
 
-## -- Classes of Territory  
+### -- Classes of Territory  
 
 - ### Natural Geographic Region (NGA)   
 *Defined spatially by the area enclosed within a boundary drawn on the world map. It does not change with time.*    
 - ### Free Form Area (FFA)  
 *Defined spatially by the area enclosed within a boundary drawn on the world map. It can have any dimensions. The purpose of FFAs is to tie various characteristics of societies and organizations to a specific set of geographic coordinates. For example, it is used to indicate what territory was controlled by a certain polity, e.g. Roman Empire, during a particular period of time (from start year to end year).*    
 
-## -- Classes of Organization  
+### -- Classes of Organization  
 
-- ### Polity  
+- #### Polity  
 *Independent political units. Range from villages and local communities through simple and complex chiefdoms to states and empires. What distinguishes a polity from other human groupings and organizations is that it is politically independent of any overarching authority; it possesses sovereignty. Polities are defined spatially by the Territories (NGAs and FFAs) with which they have spatial relationships, e.g., controls.*  
-- ### Quasi-Polity  
+- #### Quasi-Polity  
 *Quasi-polity is defined as a cultural area with some degree of cultural (including linguistic, if known) homogeneity that is distinct from surrounding areas. For example, the Marshall Islands before German occupation had no overarching native or colonial authority (chiefs controlled various subsets of islands and atolls) and therefore it was not a polity. But it was a quasi-polity because of the significant cultural and linguistic uniformity.*  
-- ### Religious System (RS)  
+- #### Religious System (RS)  
 *This type of Organization is defined in ways that are analogous to a polity, except it reflects religious, rather than political authority. Religious systems are dynamical and are typically defined by a set of dated boundaries. Religious systems are more likely to overlap in space than Polities.*  
-- ### City  
+- #### City  
 *Cities are represented by a single point on the map that doesn’t change with
 time. Although it is possible to reflect their spatial expansion dynamically, we chose
 not to do so in the current implementation.*  
-- ### Interest Group (IG)  
+- #### Interest Group (IG)  
 *An IG is a social group that pursues some common interest, so that its members are united by a common goal or goals. Religious systems are also interest groups, but the IG category is broader. It also includes ethnic groups, professional associations, warrior bands, solidarity associations, mutual aid societies, firms and banks (including their pre-modern variants), etc. __The IG is defined sociologically, not geographically__. However, if desired, a territory may be associated with it in the same way as with a polity or a RS.*   
-- ### Sub-Polity  
+- #### Sub-Polity  
 *A sub-polity is an area within a polity for which variable values differ from the overarching polity. It is a general modeling feature for capturing situations in which, for example, provinces or regions within a polity have significant differences in social organization from the rest. A sub-polity is basically a polity that lacks sovereignty.*  
 
 
@@ -74,11 +74,11 @@ not to do so in the current implementation.*
 
 The current version of the Seshat Code Book has been developed primarily for historical societies. Coding data for societies that are known only archaeologically poses an additional set of challenges. We are currently developing an archeological Seshat Code Book that will address these challenges (Marciniak et al., forthcoming; Palmisano et al. forthcoming).  
 
-# __Coding Procedure__  
+## __Coding Procedure__  
 
 ![](https://i.imgur.com/U1sYVwM.png)  
 
-# __Transforming Raw Data into ‘Facts’__  
+## __Transforming Raw Data into ‘Facts’__  
 
 To design statistical tests of hypotheses such as those listed above, we need to define and operationalize such concepts as *social scale*, *inequality*, and *intensity of military competition*. In order to do this, we need to collect and code data systematically and we need to be aware of the complications and complexities involved in such an endeavor. For each area of interest, we have developed a coding sheet that outlines the particular variables to be coded and how they are to be categorized or quantified. These coding sheets have been developed in conjunction with expert historians and archaeologists who have given valuable feedback on how best to classify these phenomena based on their specialist knowledge of these issues. These coding sheets are derived from our overall Codebook, which also discusses some of the complexities involved in coding data of this kind. The current version of the Seshat Codebook is included in the Supplementary Materials.  
 
@@ -86,13 +86,13 @@ The historical and archaeological records for even the best-attested societies a
 
 Socio-cultural phenomena described by terms such as ‘social scale’ or ‘inequality’ are often actually multidimensional and cover a range of related, but quite distinct, aspects of the human condition. Confusion or misunderstandings can sometimes occur when researchers have different definitions or conceptions of a particular term that is being used. Intriguingly, Seshat has the potential to uncover that the different dimensions of these aspects of societies may have evolved somewhat independently. For example, structural and reproductive inequality may have seen reductions since the Axial Age, but economic inequality may have been unaffected or even increased.  
 
-# __Seshat Wiki: an Initial Implementation of the Databank__  
+## __Seshat Wiki: an Initial Implementation of the Databank__  
 
 During 2012, our group developed a flexible architecture for this databank. The databank has two distinct aspects: textual/descriptive sections (including references), and coded data. The text-based sections describe what is known about a particular variable based on previous scholarship. These ‘thick’ descriptions provide important context about the variables being addressed, the sources of information used, and make explicit how a decision was made on a particular coding (for a more extended discussion of these issues, see Hoyer and Manning, forthcoming). The coded data are based on the narrative sections, and enable this information to be translated into a form that is amenable to statistical analysis. The databank therefore combines the best features of traditional humanistic and scientific approaches to investigating the past. The databank is implemented as a ‘Wiki’ (i.e., a web-based application that enables an open access, collaborative project), which allows text on different variables to be easily added and updated. The information from the Wiki is ‘scraped’ automatically and translated into formats (e.g., tab-delimited files) that can be analyzed in statistical software packages.
 
 __As of the writing of this paper, we have developed a plan to port the Wiki data into an RDF-based triplestore (Schreiber and Raimond 2014). This type of graph-based representation is particularly suitable for capturing rich, structured knowledge about complex entities and multi-faceted relationships between them. In contrast with a traditional SQL-based relational database, graph-based knowledge models, specified in OWL (the web ontology language) or RDFS (resource description framework schema), facilitate constant evolution of schema. In addition to the underlying triplestore, we will use cutting-edge techniques developed by Kevin Feeney, Rob Brennan, and colleagues to further facilitate data collection, curation and use, as described in the next section.__  
 
-# __Seshat Databank: Overarching Plan__  
+## __Seshat Databank: Overarching Plan__  
 
 __The design goal is to maximize the research community’s collective intelligence while minimizing overheads__. Ultimately, we aim to create a system with easy-to-use software tools that support the following roles and features:  
 
@@ -111,7 +111,7 @@ Seshat will be __managed through the Dacura Linked Data platform (http://dacura.
 
 __Further Phases__. The goal is to progressively replace the Wiki input format with graphical user interface tools which use the schema definition to maintain data quality over time and to ease the task of creating and updating complex instances of data types. We will progressively add enhancements to the publishing capabilities—developing richer interfaces for browsing, visualizing, analyzing, and interlinking the Seshat databank with external sources of knowledge. Once this process is sufficiently advanced, we will switch the authoritative source of data from the wiki to the triplestore, retaining the Wiki as a publishing outlet.   
 
-## __The Future of Seshat__  
+### __The Future of Seshat__  
 
 As described in the previous section, at the time of writing this paper, the main focus of the Seshat Databank development team is on coding the NGAs in the World Sample-30 for a set of variables defined by the current list of Big Questions. The variable classes include social complexity, warfare, rituals, agriculture and resources, institutions and equity, and economics and well-being (see the current version of the Code Book in the Supplementary Online Materials for a detailed description of the variables). __Simultaneously, we are making a transition from the current Wiki to the Seshat triplestore managed through the Dacura Linked Data platform__. Accomplishing these near-term goals will provide us with a solid basis from which to progressively expand the Databank in multiple mutually supportive directions.  
 
