@@ -31,15 +31,15 @@ Largely self-taught and perpetually occupied with expanding my scope of understa
 
 ------
 
-#### **Aarhus Technical College, Denmark                                                                           2008 - 2010**
+#### **Aarhus Technical College, Denmark                                                   2008 - 2010**
 
 *Chemical and Biotechnical Science*
 
-#### **Sofia University, Bulgaria                                                                                  2005 - 2008**
+#### **Sofia University, Bulgaria                                                          2005 - 2008**
 
 *Biology and Chemistry (opted for extra-curricular courses in: neurobiology, Latin, etc.)* 
 
-#### **Mathematics High School, Geo Milev (Pleven, Bulgaria)                                                       1999 - 2004**
+#### **Mathematics High School, Geo Milev (Pleven, Bulgaria)                               1999 - 2004**
 
 *Focus/class profile in Geography, Mathematics and Natural Sciences*
 
@@ -197,6 +197,3 @@ An approach I think generalizable as to eventually develop and extend into many 
 - Ways of constructing reliable economic signals (prediction market event derivatives, currency design, etc.)
 - Tools and methods for investigation, forensics and audit trail reconstruction of network events in public records (in social networks, blockchain-based public ledgers, web scraping of public registries, etc.) 
 - Decentralized governance models (setting up specific attractors and autonomous feedback mechanisms) and systems of knowledge representation (i.e., domain-specific ontologies)
-
-
-
