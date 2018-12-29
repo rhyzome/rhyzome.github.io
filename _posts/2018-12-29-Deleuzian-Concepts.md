@@ -9,6 +9,9 @@ from [*Adrian Parr - "The Deleuze Dictionary."*](https://www.amazon.com/Deleuze-
 ### ASSEMBLAGE
 An assemblage, for Deleuze, entails a consistency of elements that is irreducible to a traditional dualism – e.g. form– substance relation – and yet assemblages ‘swing between territorial closure that tends to restratify them and a deterritorializing movement that on the contrary connects them with the Cosmos’ (D&G 1987: 337). Assemblages therefore risk, yet avoid collapsing into actualised stratifi cation or actualised deterritorialisation. An assemblage is thus a dynamic assemblage, a multiplicity that is drawn into a plane of consistency that maintains itself without being reduced to either side of a dualistic relation.  
 
+![](https://i.imgur.com/OIXxKsJ.jpg)  
+*Deleuzian assemblages.*  
+
 ### BECOMING
 Becoming is the pure movement evident in changes between particular events. This is not to say that becoming represents a phase between two states, or a range of terms or states through which something might pass on its journey to another state. Rather than a product, final or interim, becoming is the very dynamism of change, situated between heterogeneous terms and tending towards no particular goal or end- state.
 
@@ -19,6 +22,8 @@ The continual production of unique events entails a special kind of continuity: 
 ### RHIZOME + TECHNOLOGY
 The proximity of the rhizome to digital technology and the computer is evident. [..] Yet Deleuze and Guattari do not write much about computers. They derive some of their ideas on rhizomes from Bateson’s *Steps to an Ecology of Mind*. They connect with the anthropologist’s pronouncements in which biology and information theory are conjoined. Bateson argues that a person is not limited to her or his visible body. Of importance is the person’s brain that transmits information as discrete differences. The brain fi res electrons that move along circuits. Through the transmission of differences, the person connects and reconnects with other humans, animals and the world.
 
+![](https://i.imgur.com/JTIjVdM.gif)  
+
 Deleuze and Guattari see the potential in Bateson’s work for rhizomatic thinking. The nervous system is said to be a rhizome, web or network. The terminology is the same as for computers though it does not pertain to them exclusively. Clearly, computers do offer possibilities. Not only the brain, but humans and the world consist of circuits in which differences are transmitted along pathways. Through computerassisted subjectivity, humans can increase their valences. Deleuze and Guattari write about a ‘becoming- radio’ or ‘becoming- television’ that can yield good or bad connections; productive or nefarious becomings. Computers and the internet have great potential as rhizomatic war machines. The way they are being captured by capitalism, that deploys order- words, consumer codes, and their multifarious redundancies makes them too often become ends in and for themselves, in a sphere of what Deleuze calls a generalised ‘techno- narcissism’.
 
 ### RHIZOME
@@ -27,6 +32,8 @@ Deleuze and Guattari see the potential in Bateson’s work for rhizomatic thinki
 In addition, Deleuze and Guattari describe the rhizome as an action of many abstract entities in the world, including music, mathematics, economics, politics, science, art, the ecology and the cosmos. The rhizome conceives how every thing and every body – all aspects of concrete, abstract and virtual entities and activities – can be seen as multiple in their interrelational movements with other things and bodies. The nature of the rhizome is that of a moving matrix, composed of organic and non-organic parts forming symbiotic and aparallel connections, according to transitory and as yet undetermined routes (D & G 1987: 10).  
 
 A rhizome contributes to the formation of a plateau through its lines of becoming, which form aggregate connections. There are no singular positions on the networked lines of a rhizome, only connected points which form connections between things. A rhizomatic plateau of thought, Deleuze and Guattari suggest, may be reached through the consideration of the potential of multiple and relational ideas and bodies. The rhizome is any network of things brought into contact with one another, functioning as an assemblage machine for new affects, new concepts, new bodies, new thoughts; the rhizomatic network is a mapping of the forces that move and/or immobilise bodies.
+
+![](https://i.imgur.com/STiGTLG.jpg)  
 
 In opposition to descendent evolutionary models of classifi cation, rhizomes have no hierarchical order to their compounding networks. Instead, Deleuzian rhizomatic thinking functions as an open- ended productive confi guration, where random associations and connections propel, sidetrack and abstract relations between components. Any part within a rhizome may be connected to another part, forming a milieu that is decentred, with no distinctive end or entry point.  
 
