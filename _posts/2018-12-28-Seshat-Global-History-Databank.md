@@ -2,6 +2,9 @@
 layout: post
 title: Seshat, The Global History Databank
 ---
+
+![](https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Seshat_Global_History_Databank_Logo.png/1200px-Seshat_Global_History_Databank_Logo.png)
+
 Paper found [here](https://escholarship.org/uc/item/9qx38718). Excerpts below:   
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~           
