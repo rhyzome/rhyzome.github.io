@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ceptr and Holochain - Currencies of Social Coherence. Holography and Distributed Hash Tables vs. Consensus Bottlenecks in Monolithic Blockchain Ledgers.
+title: Ceptr & Holochain - Currencies of Social Coherence. Holography and Distributed Hash Tables vs. Consensus Bottlenecks in Monolithic Blockchains.
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art_Project.jpg/1024px-Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art_Project.jpg)
