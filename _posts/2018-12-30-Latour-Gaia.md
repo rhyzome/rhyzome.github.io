@@ -5,7 +5,7 @@ title: Bruno Latour on Why Gaia is So Hard to Understand
 
 [Extending the Domain of Freedom, or Why Gaia Is So Hard to Understand](http://bruno-latour.fr/sites/default/files/157-CRITICAL-INQUIRY-GAIA-FREEDOM.pdf):
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lorenz_attractor_yb.svg/768px-Lorenz_attractor_yb.svg.png)  
+![](https://i.imgur.com/XY3air9.jpg)  
 
 >*The Gaia hypothesis implies that the stable state of our
 planet includes man as part of, or partner in, a very
