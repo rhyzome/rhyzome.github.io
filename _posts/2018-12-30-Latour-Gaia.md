@@ -3,14 +3,16 @@ layout: post
 title: Bruno Latour on Why Gaia is So Hard to Understand
 ---
 
-[Extending the Domain of Freedom, or Why Gaia Is So Hard to Understand](http://bruno-latour.fr/sites/default/files/157-CRITICAL-INQUIRY-GAIA-FREEDOM.pdf):
-
 ![](https://i.imgur.com/XY3air9.jpg)  
+
+[Extending the Domain of Freedom, or Why Gaia Is So Hard to Understand](http://bruno-latour.fr/sites/default/files/157-CRITICAL-INQUIRY-GAIA-FREEDOM.pdf):
 
 >***The Gaia hypothesis implies that the stable state of our
 planet includes man as part of, or partner in, a very
 democratic entity.
 >  —James Lovelock**
+
+_________________________________________________________________________________________________
 
 > There are of course good reasons for that. The first is that any new phenomenon is defined by comparison with some already familiar situation. Gaia however is a *unique phenomenon* — at least as long as we have no proof of another planet modified by life to provide some sort of baseline. So, it’s no wonder that metaphors don’t help much in defining Gaia: if you are happy with one version, it is sure to be wrong. You cannot zoom in on its specificity by just considering nature as a whole. Hence the many misunderstandings accumulated over the years around the idea that the Earth is alive, that it is an organism, a superorganism, a machine, a cybernetic feedback control device, a spaceship, a body politic, and so on. Even the tamed notion of system is no more than a fragile simile in spite of the now common expression Earth System Science (ESS)—the polite euphemism sometimes used to avoid naming Gaia too directly.
 Whilst there is a fairly widely held perception that ESS has replaced the idea of Gaia, we argue it is important to differentiate them. Specifically, Gaia originated and expanded in space and time from within a preexisting Earth system. Strangely, defining such a phenomenon requires a sort of negative geology reminiscent of the apophatic ways that theologians had recourse to when trying to probe God’s uniqueness.
