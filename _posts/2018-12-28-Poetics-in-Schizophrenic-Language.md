@@ -3,6 +3,11 @@ layout: post
 title: Poetics in Schizophrenic Language - Speech, Gesture and Biosemiotics  
 ---  
 
+![](http://payload492.cargocollective.com/1/0/4579/12141236/Progression_Louis_Wain_IllustrationChronicles_1500.jpg)
+*Louis Wain was an English artist suffering from schizophrenia known for his drawings, which consistently featured anthropomorphised large-eyed cats. The progression of his psychosis (e.g., increased abstraction as symptomatic) can be clearly seen in his series of drawings and illustrations.* 
+
+Psychologists have cited this increased abstraction as symptomatic of Wain's schizophrenia
+
 An [interesting paper](https://www.researchgate.net/profile/James_Goss2/publication/251195101_Poetics_in_Schizophrenic_Language_Speech_Gesture_and_Biosemiotics/links/5481efce0cf2e5f7ceaac793.pdf?origin=publication_list) contributing some insight into the nature and phenomenology of schizophrenia and the state of psychosis (as characterized by a kind of freeflow semiosis, primitive experience of language and regime of constructing meaning and making sense). Below are excerpts and paragraphs from the paper that capture the the essence of it:
 
 > This paper offers a biosemiotic account of the poetic aspects of gesture and speech in schizophrenia. The argument is that speech and gesture are not the mere expression of pre-verbal thoughts. Instead, meaning is enacted by the temporal and semantic coordination of speech and gesture. The bodily basis of language is highlighted by the fact that, failing to create language that is organized around topics, individuals with schizophrenia often rely on poetic associations in directing their utterances.
