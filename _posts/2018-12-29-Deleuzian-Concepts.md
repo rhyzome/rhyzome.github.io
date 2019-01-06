@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deleuzian Concepts
+title: Deleuzian Conceptual Vocabulary
 published: true
 ---
 
