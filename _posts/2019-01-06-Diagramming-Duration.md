@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diagramming Duration : Bergsonian Multiplicity and Chaos Theory (Paul Harris)
+title: Diagramming Duration - Bergsonian Multiplicity and Chaos Theory (by Paul Harris)
 ---
 The [paper in full](http://cri.histart.umontreal.ca/cri/fr/intermedialites/p3/pdfs/p3_harris_text.pdf):
 
