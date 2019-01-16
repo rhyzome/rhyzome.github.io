@@ -2,7 +2,7 @@
 layout: post
 title: Martin Armstrong (the ECM, on Bitcoin and "crypto-currency" and other assorted excerpts and notes)
 ---
-# On Bitcoin and Cryptocurrencies
+## On Bitcoin and Cryptocurrencies
 
 #### [Have Cryptocurrencies Become a Religion?](https://www.armstrongeconomics.com/world-news/cryptocurrency/have-cryptocurrencies-become-a-religion/):
 
@@ -81,7 +81,8 @@ ________________________________________________________________________________
 > I had to design a completely different programming technique to work out the complexity. Just image calculating every market in the world in 35 different currencies. The number of variables is beyond comprehension. If we are talking about a limited number of variables for normal business operations, Neural Nets are fine. When it comes to market forecasting, they can develop a Deep Learning system on a single market, but without correlating this with all other markets, you will NEVER see the contagion coming. When everything crashed in 1998 because of the collapse in the Russian debt markets, the illiquidity caused funds to sell other assets to raise cash to cover losses elsewhere. The Russian bond collapse caused a massive sell-off in Japanese yen/dollar rate that had absolutely NOTHING to do with the fundamentals in Japan. Contagions always emerge externally so you can create a model and it will work for a while and then you lose everything.  
 
 _____________________________________________________________________________________________________________________________
-Selections from ["Understanding the Real Economy"](https://files.fm/u/657mp9n9):
+
+## Selections from ["Understanding the Real Economy"](https://files.fm/u/657mp9n9):
 
 ![](https://i.imgur.com/Ly0M0vF.png)
 
