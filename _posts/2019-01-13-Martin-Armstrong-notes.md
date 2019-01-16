@@ -81,168 +81,154 @@ ________________________________________________________________________________
 > I had to design a completely different programming technique to work out the complexity. Just image calculating every market in the world in 35 different currencies. The number of variables is beyond comprehension. If we are talking about a limited number of variables for normal business operations, Neural Nets are fine. When it comes to market forecasting, they can develop a Deep Learning system on a single market, but without correlating this with all other markets, you will NEVER see the contagion coming. When everything crashed in 1998 because of the collapse in the Russian debt markets, the illiquidity caused funds to sell other assets to raise cash to cover losses elsewhere. The Russian bond collapse caused a massive sell-off in Japanese yen/dollar rate that had absolutely NOTHING to do with the fundamentals in Japan. Contagions always emerge externally so you can create a model and it will work for a while and then you lose everything.  
 
 _____________________________________________________________________________________________________________________________
-Selections from "Understanding the Real Economy":
+Selections from ["Understanding the Real Economy"](https://files.fm/u/657mp9n9):
 
 ![](https://i.imgur.com/Ly0M0vF.png)
 
+
+
 ![](https://i.imgur.com/KBxfCes.png)
 
-![](https://i.imgur.com/bFLdiFo.png) **Highlight**
+
+
+![](https://i.imgur.com/bFLdiFo.png) 
+
+> "The **Economic Confidence Model** that I discovered back in the 1970s was not based on any particular market or economy. It was devised by taking a list of world panics in the economy, irrespective of where they began, utilizing a list of 26 events between 1683 and 1907. It was dividing 26 into the 224 year time period that produced the basic frequency of 8.615384615. Like Adam Smith, I set out upon a course of observation to try to understand what made a cycle even exist. Through the course of my studies of the past and observations of the present, I came to realize that the observations uncovered a rich and dynamic structure of interactivity between mankind himself, as well as nature from weather to earthquakes. In short, what scientists were just then discovering with the aid of computers that could do millions of calculations impossible by hand, that the image of chaos has been completely altered. What may appear to be chaos, is in reality, only complex interaction that can be observed by only pealing back layers upon layers like an onion."
+
+
 
 ![](https://i.imgur.com/BafoHOg.png)
 
+> "Many are aware that the Economic Confidence Model tracks what might be called the "hot" money, not a specific market or national economy. This phenomenon is caused by capital concentration - the very thing Karl Marx hated, the very thing that our modern politicians keep trying to stop."
+
 ![](https://i.imgur.com/EShnxx1.png)
+
+
 
 ![](https://i.imgur.com/scfC2ln.png)
 
-![](https://i.imgur.com/KqCvcr6.png)  **Highlight**
+
+
+![](https://i.imgur.com/KqCvcr6.png)  
+
+> "For example, there is a 8.6 day, week, month, quarter, year, decade, century and even millennium layer of time. There are derivatives of time that create different effects still grouped in 8.6 intervals. However, the most significant seems to take place on what I would call the Generational Level of time, a group of 6 waves of 8.6 years that forms the major wave structure of 51.6 years. It is at this level where the extraordinary complexity on smaller levels combines to create major trends between Public and Private Confidence Waves. Groups of 6 waves of 51,6 starts to cause the rise and fall of nations." 
+
+[Peter Turchin: The 50-year Cycle of Political Violence Strikes Again](http://peterturchin.com/cliodynamica/the-50-year-cycle-of-political-violence-strikes-again/):
+
+> Over the past weekend France has been rocked by “the worst urban riot in 50 years” (see reporting by [Reuters](https://www.reuters.com/article/us-france-protests/macron-tells-pm-to-hold-talks-after-worst-unrest-in-paris-for-decades-idUSKBN1O1072?il=0), [DW](https://www.dw.com/en/macron-holds-crisis-talks-after-worst-urban-riot-in-50-years/a-46541994)).
+>
+> Indeed the previous comparable outbreak of political violence in France was in [May 1968](https://en.wikipedia.org/wiki/May_1968_events_in_France), almost precisely 50 years ago. (As a reminder, I define “political violence” as internal collective conflict that occupies the middle territory between individual-on-individual violence (crime) and interstate wars.)
+>
+> Although most historians disagree with the idea that there are cycles in history (at best, [it rhymes](https://www.huffingtonpost.com.au/brian-adams/history-doesnt-repeat-but-it-often-rhymes_a_21657884/)), our cliodynamic research has identified a number of periodic processes in historical dynamics. And one of them is the 50-year cycle in political violence ([see a previous post on this topic](http://peterturchin.com/cliodynamica/prophecy-fourth-turning/)). This cycle doesn’t need to be very precise—in historical data the cycle periods can vary anywhere between 40 and 60 years. But sometimes it strikes with eerie precision, like what we see today in Paris.
+>
+> In the United States we also see this cycle, which resulted in spikes of political violence spaced almost precisely 50 years apart: late 1960s–early 1970s, circa 1920, and in the 1860s–early 1870s (see my book [Ages of Discord](http://peterturchin.com/ages-of-discord/) for details). It is one of the reasons for [my prediction that we will experience a peak of political violence in the early 2020s](http://peterturchin.com/cliodynamica/quantitative-prediction-political-violence-2020s/). (But not the only one: even more important are such factors as [intraelite conflict](http://peterturchin.com/cliodynamica/intra-elite-competition-a-key-concept-for-understanding-the-dynamics-of-complex-societies/) and popular immiseration. Also, that prediction was made 10 years ago, and the way political unrest has been developing here hints that we may have this spike arrive “before it is scheduled”).
+
+
 
 ![](https://i.imgur.com/ivL48ak.png)
 
-![](https://i.imgur.com/dEqUFJo.png)  **Highlight**
+
+
+![](https://i.imgur.com/dEqUFJo.png)  
+
+> "Now that we understand what makes one economy boom against all others, or a particular sector within an economy because Capital Concentrates, now we can look at the ECM with the proper perspective. This is a global model of economic activity that highlights the raw fact that man will speculate no matter what and that creates the Capital Concentration. **The ECM gives us the perspective of short-term business cycle movements at the 8.615384615 year level, but this frequency moved both up and down in time in layers like an onion. It builds into groups of 6 waves forming a 51.6 year major cyclical wave where confidence between the people and the state alternate at the generational level. This builds into 6 waves again of 51.6 years into 309,6 year waves upon which nations rise and fall.**"
 
 ![](https://i.imgur.com/VLYmDCX.png)
 
+
+
 ![](https://i.imgur.com/SF6ID3C.png)
 
-**Highlight  (above and below)** 
+> "There are those who no matter what you show them or what you say they will never believe in cycles. For those of us who do, we need that disbelief to trade against. There always has to be two sides to a coin, as well as a market."
 
 ![](https://i.imgur.com/tONpep5.png)
 
+> "Look a major collapses from all bubble tops and this is what you will find. The minimum amount of time to complete the fall and decline is this 31-34 month time period except in the Waterfall Events."
+
 ![](https://i.imgur.com/MrGbfDR.png)
+
+
 
 ![](https://i.imgur.com/WXGqosg.png)
 
+> "There has been a lot written about the Science of Chaos. The true person to develop this field was B. Mandelbrot. The science of chaos that produced the fractal geometry I regard from a pure economic perspective as a proof of the existence of layers upon layers, but it offers no predictive value for our real economy in the traditional sense."
+>
+> "What fractal geometry demonstrates is that there is no real just chaos, just such degree of complexity that our eye has been unable to see the complex order. Fractal Geometry and its insights is based upon Complex Numbers. For those who do not remember the school days, unlike all other numbers, the Complex Numbers do not exist on a horizontal plane. The Natural Numbers 1 through 9, for example, can be plotted on a horizontal line."
+
 ![](https://i.imgur.com/m1wvRcI.png)
+
+> "Unlike Natural Numbers, Complex Numbers do not exist on a horizontal line. They exist only on an x-y coordinate time plane where Natural Numbers and Regular Numbers on a horizontal grid combine into what we call Imaginary Numbers on the vertical grid. These Imaginary Numbers are simply numbers where taking a negative number times another negative number produces a negative instead of a positive number, i.e. -2 * -2 = -4."
 
 ![](https://i.imgur.com/Z3NTLSU.png)
 
+
+
 ![](https://i.imgur.com/vvTpJRo.png)
+
+
 
 ![](https://i.imgur.com/nJSekQz.png)
 
-![](https://i.imgur.com/JfSmMGO.png)  **Highlight**
+
+
+![](https://i.imgur.com/JfSmMGO.png)  
+
+> "We can see from the above illustration of the Economic Confidence Model that there has always been a delicate dance between the effects that follow the path of "time" as the Fourth Dimension adds to the basic equation What-How-Where with the fourth variable "When" and now we have the hidden complex field behind everything that adds the next portion to the equation "Why" that can be explained only by the Fifth Dimension of complex interaction through the process of "self-referral" that allows history to repeat. We are getting closer to the real causes and effects that have tormented mankind and often caused such hardship by the attribution of normal events to the folly of gods."
+
+
 
 ![](https://i.imgur.com/93aqSbc.png)
 
 
 
-_____________________________________________________________________________________________________________________________
 
-Selected parts of "Methods and Methodologies" (2nd Edition):
 
-> # Introduction  
->
-> Princeton Economics employs a completely different school of innovative thinking based on a non-subjective interpretation of market and economic movement, which is essential in understanding the development of the world economy and financial markets.  
->
-> At Princeton Economics, we have created the first AI database (Socrates) capable of tracking capital flows on an international basis. To compile our database, we spent decades tracking the monetary history of the world, beginning with the earliest known forms of currency. We then created a system capable of building knowledge upon the accomplishments and failures of the past. Socrates considers all potential economic and social variables by gathering data on everything from stocks, bonds, interest rates, and commodities to political trends, wars, and civil unrest. Socrates monitors nearly every currency in circulation to grasp a truly global perspective of the global economy. Most importantly, Socrates generates analyses without human intervention. This ensures that our analyses are non-subjective by removing the bias of personal observation.  
->
-> # Understanding Technical Analysis  
->
-> When used in isolation [technical analysis] to determine market patterns, technical analysis is subjective and produces different results depending on whom is doing the analysis. Perhaps the greatest threat to forecasting lies in the Observer Effect, which states that the observer subconsciously inserts his or her own biases into the analysis, thus altering the results. For this reason, Princeton Economics does not employ Fibonacci Timing, Elliot Wave, Kondratieff Wave, or other similar models. Although price can be determined using forms of technical analysis, measuring only the shape of a wave dismisses the importance of time.  
->
-> Princeton Economics also employs the use of cyclical analysis, which by definition is the analysis of a time series that isolates regular rhythmic patterns of oscillation.  
->
-> The three primary dimensions of market and economic movement are (1) time, (2) price, and (3) volatility. However, a fourth dimension exists: interrelationships. Fundamental analysis aims to reduce things to a specific cause and effect, but that is not reality. Interrelationships and interconnectivity on a global scale are what really matters. For example, a company’s earnings may be seen as bullish domestically, yet bearish internationally. Within this realm, the fundamental approach must be global in nature and never isolated to purely domestic trends.  
->
-> At Princeton Economics, we use a method called International Capital Flow Analysis that conforms to quantitative standards by monitoring the interactions across major world economies which enables us to obtain consistent long-term forecasts.  
->
-> # Understanding the Importance of World Capital Flows  
->
-> Science has come to understand that man cannot create a rainforest by merely planting a group of trees and plants. There are millions of species of bacteria, insects, animals, plants, etc. that interact to form a balance within nature. Man cannot duplicate such a complex system due to his lack of knowledge concerning such a wealth of intricate variables interacting with one another to produce the final balanced system.  
->
-> Another problem for man in grasping a full understanding of market and economic behavior lies in his conscious thought process. In our natural state, our mind processes and records data in a nonlinear fashion. For example, when we meet someone special, perhaps in a restaurant, our subconscious mind records the music and setting of the moment. The subconscious mind quietly observes what the other person is wearing, the color of the tablecloth, the flicker of the candlelight, the background music, etc. The conscious mind observes the conversation at hand. Months or even years later, if we hear or see one of those stimuli, our mind suddenly retrieves the experience and consciously relives the event, right down to the twinkle of the candlelight. Economic and market behavior is quite similar to the operation of our mind. There are numerous hidden variables within the equation that produces the end result. Consciously, we focus on only a small fraction of those variables involved and then desperately try to reduce every event to a single cause.  
->
-> For example, we may pay attention to something like unemployment and its influence on interest rates. We then try to interpret and pass judgement as to what the trend will be, based upon a handful of fundamental relationships. Inevitably, such analysis proves incorrect due to the lack of attention paid to the wealth of other variables. In financial analysis, we ignore the actual process of collecting knowledge by continually trying to reduce the entire fate or the world into a few simplistic relationships.   
->
-> As famed economist Adam Smith mentioned in his Wealth of Nations, we all act according to our own self-interests. Today this is magnified due to currencies becoming far more visible on a global scale. Percentage swings of even 40% in two years have become much more commonplace. Only a global model that filters in all key economic data along with free market movements that includes everything from bonds and stocks to wheat and aluminum, can hope to ascertain the trend.   
->
-> The test of a real bull or bear market is one rising or falling on a global scale that is not limited purely to one’s domestic currency perspective. What can appear to be bullish in local currency can look dramatically different in international currency. Currency has become everything and it is crucial to understand capital flows. Global trends are the result of smaller trends emerging from every economy around the world. The trends in international capital are set in motion by the forces of taxation, inflation, financial security, foreign exchange, labor costs, geopolitics, and of course meddling politicians. There are some minor influences as well, such as interest rate differentials. Nevertheless, capital is continually flowing from one economy to the next in search of profit and/or financial stability. This is nothing new as capital has been global for a very long time. There was even the Silk Road between the West and East that dates back to the Stone Age.  
->
->
-> # The Shape of a Wave  
->
-> One of the great misconceptions in cycle theory is the notion that cycles unfold in a purely symmetrical wave formation that is transverse in structure. This is simply not true, as we will explore. There are also longitudinal wave structures where there is no symmetrical distance between peaks. Both the Kondratieff Wave and Samuel Benner’s Wave structure are longitudinal in nature. Perhaps instinctively, Benner understood cyclical shapes and thus saw the repetitive patterns. Kondratieff merely identified three cyclical waves of varying duration (wavelengths) and failed to address repetitive patterns.  
->
-> Another fallacy that has prevented many from understanding cyclical movements has been the concept of efficient markets adhering to some mysterious equilibrium that forms a magical balancing act, such as the idea of supply and demand, existing inherently within the system. The idea of equilibrium is like drawing a center line in the path of the swinging pendulum. It is not the center line that provides the attraction and driving force of the pendulum, rather it is always the two extreme forces on either side. There is no state of perfect equilibrium acting as some mysterious driving force, nor is there an efficient center force that the economy aims to achieve.    
->
-> The __Economic Confidence Model__, developed by Princeton Economic Intl. Chairman and renowned economist Martin Armstrong, __is a wave structure that builds in intensity through six individual waves of 8.6 years that form a major wave of 51.6 years, which in turn builds up once again into a 309.6-year structure. There is a fractal nature to this wave structure. Additionally, it incorporates events that appear to come from nowhere, such as a rogue wave of combined force in the ocean. It is by no means a one-dimensional bell curve. The shape of the wave structure is vital to understand.__    
->
-> ![](https://i.imgur.com/t2yaMYF.jpg)  
->
-> Two different forms of cyclical patterns are important to understand and are general in description rather than a precise formula. Cycle pattern #1 is generally short, sweet, and to the point. This first pattern is what we call a self-ordered motion within the system whereby the resolution of an overbought state extinguishes rapidly. This tends to be the general pattern of the free market when left to its own devices.  
->
-> ![](https://i.imgur.com/gfugGE6.jpg)  
->
-> Cycle pattern #2 generally emerges from some form of government intervention. By preventing the decline between points 4 and 5, government tends to prevent resolution that leaves market participants holding, waiting for the day when they will be made whole. Real estate also tends to follow pattern #2 as it is based upon mortgages, which once burnt, causes banks to shy away from real estate due to the fact that it is not a liquid market once the cycle turns down.  
->
->
-> # Phase Transition  
->
-> In physics, a physical system exists called a Phase Transition that crosses the boundary between two changes in its properties in a fundamental way. For example, we can create a Phase Transition by boiling water and moving from water to a gas. In simpler terms, a Phase Transition changes in state from one form to another. Whatever exists in physical systems also exists within the realm of economics for we may be biological organisms, but there is no exception to the laws of physics. In the markets, the Phase Transition explains abrupt movements in price. We can track the bullish and bearish consensus and see how it moves between the two extremes. A Phase Transition accounts for the change between the two extremes. However, this is by no means a linear progression. It very much follows the same general course as boiling water.  
->
-> A Phase Transition accomplishes the same end game in physics as it does in economics. For example, we can move back and forth from a bearish state to a neutral state where bulls and bears tug back and forth to either state. The two extremes mark the dramatic conviction that swings of the opposite force covers them, causing the Phase Transition to unfold. This is not a normal bearish or bullish state, rather it is a compressed state of time that convinces the majority within the marketplace to switch sides.  
->
-> Understanding the Phase Transition is critical to understanding how to trade. The greatest amount of gain and loss is accomplished in the shortest amount of time.  
->
->
-> # Understanding Time  
->
-> If there is no understanding of time, then you must take a loss for all you can do is buy and hold. If you do not have a concept of time, you will lose everything after a Phase Transition. You need to know when changes in trend will appear and begin to shift direction in advance of the event unfolding. You cannot turn a battle ship on a dime, and therefore time is essential when it comes to managing large portfolios.  
->
-> Many assume that forecasts concerning time may possibly be accurate in the short-term, but they remain skeptical about long-term timing forecasts. Many argue that major political events cannot possibly be predicted in advance. To the contrary, such events would not take place unless the economic condition had been in a steep decline. Computers cannot predict what type of revolution will unfold as a result of a collapsing economy, but they can predict when some sort of political change will take place due to economic pressures. Since the dawn of civilization, no revolution has ever taken place unless man was first economically deprived. Time is something that is quantifiable as everything has a cycle.  
->
-> Contrary to popular belief, quantitative long-term timing forecasts actually display a higher level of accuracy than the short-term. Long-term trends are set in motion by a combination of forces, and these forces cannot turn around on a dime. Short-term trends involve a lot of noise. People can become excited and falsely believe that the trend is changing, rushing in where only fools would go. The trend fails and suddenly they bail out, causing the market to revert back to the longer-term trend. The short-term is highly volatile; the long-term trend is actually easier to predict than the short-term noise.  
->
-> The critical aspect about time is that it is truly fractal in its construction. There are numerous timing frequencies in a single market created by the many minor trends from a variety of different investment strategies. We have found that long-term frequencies always overpower short-term frequencies. Therefore, an 8-week cycle producing a low will be overpowered by a 20-week cycle due to produce a high at the same time. One could say that the 8-week cycle inverted or cancelled out by the stronger 20-week cycle. As this process of long-term cycles dominating the short-term occurs, one begins to realize that long-term cycles are more reliable than the short-term because they are far more difficult to change.  
->
-> The cyclical process is how all forms of energy move. It is how light moves, sound, and even electricity. The attraction of two opposite forces creates a self-propelling mechanism that operates according to economic entropy, which is the measure of driving forces (energy) as it is expended and is no longer available to continue to drive the cycle in that direction. Once the bullish energy is expended, then the attractive force in the opposite direction (bearish) overpowers the remaining bullish force and compels the cycle to then change direction to the bearish attractor. This self-perpetuating endless cycle of life drives the entire mechanism.  
->
-> # Timing Models  
->
-> There are three primary methodologies to cyclical analysis, each with numerous layers of inherent complexity.  
->
-> 1) Composite Timing Models (Longitudinal Cyclical Waves)  
-> 2) Empirical Timing Models (Transverse Cyclical Waves)  
-> 3) Trading Timing Models (Differential Cyclical Waves)  
->
-> __i. Composite Timing Models__  
->
-> Composite Timing Models are longitudinal cyclical waves that expand and contract with no definitive fixed duration between each wave. Composite Timing Models tend to repeat in a broader overall group pattern. 
->
-> For example, one wave may be 13 days, the next 34 days, followed by another 17-day cycle, and finishing with an 8-day cycle. This may generate a pattern of 72 days, which then repeats.  
->
-> This type of cyclical activity is addressed through Composite Timing Models, as they are the result of a harmonic mix of many other timing elements. Composite frequencies form from cyclical frequencies within the same market and external influences from other markets across the globe.  
->
-> __ii. Empirical Timing Models__  
->
-> Transverse wave structures with fixed length timing frequencies also exist within a market that is symmetrical in shape. We call this our Empirical Timing Model, meaning they are “fixed” in wavelength.  
->
-> For example, gold has historically had an 8-week cycle. At times, because of the Superposition Principle, this cycle will undergo Destructive Inference and fail to produce a Turning Point. This can cause the cycle to appear longitudinal in construction, yet it remains very much transverse.  
->
-> A fixed length cycle of 8 weeks may produce a high and low precisely every 8 weeks or for a
-> brief period in time. This cycle may suddenly disappear if it becomes overpowered by a longer timing frequency from monthly, quarterly, or even yearly levels of activity within the same market or influenced by interconnectivity of other market trends. After a few apparent failures, this 8-week cycle will suddenly reappear exactly on target as if nothing had happened. This fixed length cycle never changes in duration. When it stops working, it is only because a frequency of greater importance is taking control. The greater force may be from within the same market or the result of global interrelationships.  
->
-> Empirical Models are very important timing elements. Just because a particular timing frequency may appear successful on a few occasions does not guarantee its validity. Each timing frequency employed in our Empirical Models has been historically tested as far back as possible under all possible conditions. A frequency is only valid if it is consistent during a bull and bear market. The majority of mistakes made by analysts are caused by the use of timing models that have not been tested in both bull and bear markets.  
->
-> __iii. Trading Timing Models__  
->
-> Our Trading Timing Models are concerned solely with the nominal differences between bull and bear market frequencies and traits. Our turning points generated by this model reflect the statistical differences between these opposing trends without consideration of various timing frequencies or intermarket relationships. The model specifically states what the expected events should be (high or low) at a particular time interval. Unlike the other two previously mentioned models, Trading Timing Models offer a union of time and direction, and thus enable the user to qualify the forecast. Consequently, our Trading Timing Models can offer a completely independent view as to what to expect.  
->
-> Since trends become clearer during violent price action, this tool performs best during panics in either direction. The periods when this pool provides a lower degree of accuracy is during quiet non-trading periods. These are periods when both forces are about equal and tend to cancel each other out.  
->
-> This model recognizes that each market and sector has its own unique frequency. For example, agricultural stocks are greatly influences by weather, crops, plating cycles, etc. and thus are highly prone to greater volatility than one would find in other commodities, bonds, or stocks.  
->
-> # Bifurcation Models and the Science of Chaos  
->
-> Bifurcation is the mathematical study of changes in the quantitative or topological structure of a given family. This includes the study of changes in the qualitative structure of a dynamic system that is nonlinear based and includes integral curves of a group of vector fields, and the solutions of a group of different equations.  
->
-> This enables the computer to observe a bifurcation, which occurs when a small subtle change takes place in one of the inputs that form the parameter values (bifurcation parameters) within a system that then causes a sudden “qualitative” or topological change in its behavior.  
->
-> __Bifurcation analysis is the process of attempting to find a specific point in time and price that acts as a "strange attractor" in market or economic movement.__  
->
-> # Conclusion  
->
-> Everything is connected. Although most traders accept time, price, and volatility as important components of analysis, a fourth component of greater importance — interrelationships — is often overlooked. The global economy is much like a rainforest with billions of lifeforms all depending on one another. To analyze and model this kind of complex environmental and societal economic system requires research that views the system as a whole, as well as its component parts, to reveal the interconnected data that lies hidden beneath the surface. This allows for the combination of small influences to cascade into larger global trends, just as removing one species in a rainforest will set off a chain reaction with unintended or unknowable results. We are incapable of constructing a rainforest because we do not understand all the subtle interconnections.  
->
-> We live in a Complex Adaptive Dynamic System; it is not possible to reduce such a complex system to a single cause and effect, as fundamental analysis aims to do. We recognize that history repeats, but never in the same manner, which is why we employ the use of cyclical analysis to analyze regular rhythmic patterns of oscillation. Technical analysis, when used in isolation to predict market patterns, is subjective and produces different results depending on whom is performing the analysis. To eliminate the Observer Effect, we developed an innovative computer system capable of forecasting the economy on a global scale without the need for human involvement.  
+![](https://i.imgur.com/Ug1ahCy.png)
+
+
+
+
+
+![](https://i.imgur.com/DPT6CRm.png)
+
+
+
+
+
+![](https://i.imgur.com/1fOJbRL.png)
+
+
+
+
+
+![](https://i.imgur.com/fK0MpCu.png)
+
+
+
+
+
+![](https://i.imgur.com/LeYlhFT.png)
+
+
+
+
+
+![](https://i.imgur.com/eToRNId.png)
+
+
+
+
+
+![](https://i.imgur.com/hDg3Xds.png)
+
+
+
+
+
+![](https://i.imgur.com/VsDUUCG.png)
+
+
+
+
+
+![](https://i.imgur.com/5OXEZtY.png)
