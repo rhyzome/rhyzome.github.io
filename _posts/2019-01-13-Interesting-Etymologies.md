@@ -21,3 +21,7 @@ title: Some interesting etymologies.
 # heresy (n.)
 
 *The Latin word is from Greek hairesis "a taking or choosing for oneself, a choice, a means of taking; a deliberate plan, purpose; philosophical sect, school," from haireisthai "take, seize," middle voice of hairein "to choose."*
+
+# currency (n.)
+
+*1650s, "condition of flowing," a sense now rare or obsolete, from Latin 'currens', present participle of 'currere' "to run." The notion of "state or fact of flowing from person to person" led to the senses "continuity in public knowledge" (1722) and "that which is current as a medium of exchange, money" (1729).*
