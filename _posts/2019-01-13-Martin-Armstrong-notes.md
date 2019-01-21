@@ -2,6 +2,10 @@
 layout: post
 title: Martin Armstrong (the ECM, on Bitcoin and "crypto-currency" and other assorted excerpts and notes)
 ---
+
+![](https://i.imgur.com/XMoj2yu.jpg)
+*Bruegel. Big Fish Eat Little Fish.*
+
 ## On Bitcoin and Cryptocurrencies
 
 #### [Have Cryptocurrencies Become a Religion?](https://www.armstrongeconomics.com/world-news/cryptocurrency/have-cryptocurrencies-become-a-religion/):
