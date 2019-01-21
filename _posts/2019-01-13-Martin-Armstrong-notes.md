@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Martin Armstrong (the ECM, on Bitcoin and "crypto-currency" and other assorted excerpts and notes)
+title: Martin Armstrong - Various excerpts, references and notes (on Bitcoin and "cryptocurrencies", the ECM, etc.)
 ---
 
 ![](https://i.imgur.com/XMoj2yu.jpg)
