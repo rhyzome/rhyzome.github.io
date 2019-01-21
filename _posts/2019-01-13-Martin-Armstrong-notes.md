@@ -204,6 +204,11 @@ ________________________________________________________________________________
 
 ![](https://i.imgur.com/fK0MpCu.png)
 
+Armstrong explains in a [blog post ("Panic Cycles vs. Waterfall Events")](https://www.armstrongeconomics.com/armstrongeconomics101/understanding-cycles/panic-cycles-v-waterfall-events/):
+
+>The Waterfall Event is a term I coined to describe what I discovered in the study of the rise and fall of empires, nations, and city-states.
+>
+>I have encountered the Waterfall Events such as the collapse of Venice to the 1931 Sovereign Debt Crisis where the foreign government bonds listed on the New York Stock Exchange simple defaulted and went to zero. Thus, the Waterfall is a sharp collapse that will unfold in a market with a decline of generally greater than 50%.
 
 
 
