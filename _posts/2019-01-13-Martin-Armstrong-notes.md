@@ -4,6 +4,7 @@ title: Martin Armstrong (the ECM, on Bitcoin and "crypto-currency" and other ass
 ---
 
 ![](https://i.imgur.com/XMoj2yu.jpg)
+
 *Bruegel. Big Fish Eat Little Fish.*
 
 ## On Bitcoin and Cryptocurrencies
