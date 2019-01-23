@@ -20,8 +20,24 @@ title: Some interesting etymologies.
 
 # heresy (n.)
 
-*The Latin word is from Greek hairesis "a taking or choosing for oneself, a choice, a means of taking; a deliberate plan, purpose; philosophical sect, school," from haireisthai "take, seize," middle voice of hairein "to choose."*
+*The Latin word is from Greek __hairesis__ "a taking or choosing for oneself, a choice, a means of taking; a deliberate plan, purpose; philosophical sect, school," from __haireisthai__ "take, seize," middle voice of hairein "to choose."*
 
 # currency (n.)
 
-*1650s, "condition of flowing," a sense now rare or obsolete, from Latin 'currens', present participle of 'currere' "to run." The notion of "state or fact of flowing from person to person" led to the senses "continuity in public knowledge" (1722) and "that which is current as a medium of exchange, money" (1729).*
+*1650s, "condition of flowing," a sense now rare or obsolete, from Latin __currens__, present participle of __currere__ "to run." The notion of "state or fact of flowing from person to person" led to the senses "continuity in public knowledge" (1722) and "that which is current as a medium of exchange, money" (1729).*
+
+# economy (n.)
+
+1530s, "household management, from Greek *oikonomia* "household management, thrift," from *oikonomos* "manager, steward," from oikos "house, abode, dwelling" + *nomos* "managing," from nemein "manage."
+
+![](https://cdn.etymonline.com/chart/etymology-economy-980p_l.jpg?t=1536757884000)
+
+
+
+# ecology (n.)
+
+1873, oecology, "branch of science dealing with the relationship of living things to their environments," coined in German by German zoologist Ernst Haeckel as Ökologie, from Greek *oikos* "house, dwelling place, habitation" + -logia "study of." 
+
+
+
+![](https://i.imgur.com/H5elR0i.png)
