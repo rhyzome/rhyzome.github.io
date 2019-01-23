@@ -30,7 +30,7 @@ title: Some interesting etymologies.
 
 1530s, "household management, from Greek *oikonomia* "household management, thrift," from *oikonomos* "manager, steward," from oikos "house, abode, dwelling" + *nomos* "managing," from nemein "manage."
 
-![](https://cdn.etymonline.com/chart/etymology-economy-980p_l.jpg?t=1536757884000)
+![](https://cdn.etymonline.com/chart/etymology-economy-980p_l.jpg)
 
 
 
