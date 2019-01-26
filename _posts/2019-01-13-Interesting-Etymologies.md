@@ -45,3 +45,7 @@ from [Wikipedia](https://en.wikipedia.org/wiki/Oikos):
 >
 >The _oikos_ was the basic unit of society in most Greek city-states. In normal Attic usage the oikos, in the context of families, referred to a line of descent from father to son from generation to generation. Alternatively, as Aristotle used it in his Politics, the term was sometimes used to refer to everybody living in a given house. Thus, the head of the _oikos_, along with his immediate family and his slaves, would all be encompassed. Large _oikoi_ also had farms that were usually tended by the slaves, which were also the basic agricultural unit of the ancient economy.
 
+
+# anarchy (n.)
+
+1530s, "absence of government," from French *anarchie* or directly from Medieval Latin anarchia, from Greek *anarkhia* "lack of a leader, the state of people without a government" (in Athens, used of the Year of Thirty Tyrants, 404 B.C., when there was no archon), abstract noun from anarkhos "rulerless," from an- "without" + *arkhos* "leader" (see [archon](https://www.etymonline.com/word/archon?ref=etymonline_crossreference)).
