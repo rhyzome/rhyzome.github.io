@@ -1,10 +1,14 @@
 ## Pharmakon
 
-In philosophy and critical theory, is a composite of three meanings: remedy, poison, and scapegoat.
+In philosophy and critical theory, is a composite of three meanings: remedy, poison, and scapegoat.  
+
 The first two refer to the common sense in the context pharmacology/toxicology, while the third sense refers to the *pharmakos* ritual of human sacrifice.
+
 As a remedy, it may also mean "a means of producing something".
+
 Jacques Derrida in "Plato's Pharmacy" gives writing as a *pharmakon*. Whereas a straightforward view on Plato's treatment of writing (in Phaedrus) suggests that writing is to be rejected as strictly poisonous to the ability to think for oneself in dialogue with others (i.e. to anamnesis).
-In certain cases it may be appropriate to see a pharmakon as an example of anthropotechnics in Sloterdijk's sense of the term – part a "project of treating human nature as an object of deliberate manipulation."[10] This is consistent with the way in which Plato's "noble lie" is understood by Carl Page – namely, as a pharmakon, with the philosopher in the role of moral physician.[11][12] Relatedly, pharmakon has been theorised in connection with a broader philosophy of technology, biotechnology, immunology, enhancement, and addiction.
+
+In certain cases it may be appropriate to see a pharmakon as an example of anthropotechnics in Sloterdijk's sense of the term – part a "project of treating human nature as an object of deliberate manipulation." This is consistent with the way in which Plato's "noble lie" is understood by Carl Page – namely, as a pharmakon, with the philosopher in the role of moral physician. Relatedly, pharmakon has been theorised in connection with a broader philosophy of technology, biotechnology, immunology, enhancement, and addiction.
 
 
 
@@ -28,6 +32,12 @@ from Modern Latin miasma "noxious vapors," from Greek miasma (genitive miasmatos
 In Greek mythology, a miasma is "a contagious power ... that has an independent life of its own. Until purged by the sacrificial death of the wrongdoer, society would be chronically infected by catastrophe."
 
 An example is Atreus who invited his brother Thyestes to a delicious stew containing the bodies of his own sons. A miasma contaminated the entire family of Atreus, where one violent crime led to another, providing fodder for many of the Greek heroic tales. Attempts to cleanse a city or a society from miasma may have the opposite effect of reinforcing it.
+
+
+## Autopoiesis
+
+Autopoiesis (from Greek, Modern αὐτo- (auto-), meaning 'self', and ποίησις (poiesis), meaning 'creation, production') refers to a system capable of reproducing and maintaining itself.
+
 
 
 ## Oikos
