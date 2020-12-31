@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: rhyzome.github.io
+Token: ebd1322b0e122878ec0b7c282d668e9689089b8b1d6e9249cd5269bbfae54ab5
